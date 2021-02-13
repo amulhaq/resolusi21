@@ -1,6 +1,6 @@
 resolusi 2021 :
--semangat mengerjakan skripsi
--lulus semester tahun ini
--upgrade skill programing php dan framework CI
--membuat projekan sendiri
--join projekan besar
+semangat mengerjakan skripsi
+lulus semester ini
+upgrade skill programing php dan framework CI
+membuat projekan sendiri
+belajar front end dev
